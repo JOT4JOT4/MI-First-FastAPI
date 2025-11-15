@@ -1,3 +1,3 @@
-from app.schemas.item import ItemBase, ItemCreate, ItemRead
+from app.schemas.game import GameBase, GameCreate, GameRead
 
-__all__ = ["ItemBase", "ItemCreate", "ItemRead"]
+__all__ = ["GameBase", "GameCreate", "GameRead"]
