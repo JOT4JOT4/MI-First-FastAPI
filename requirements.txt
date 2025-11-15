@@ -5,3 +5,5 @@ pydantic
 sqlalchemy
 pytest
 httpx
+Motor
+pymongo
